@@ -6,17 +6,6 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Jomar F<jomar@mail.usf.edu>
-
-4:50 AM(12 hours ago)
-
-
-to me
-namespace ArraysDeliverable
-    {
-        class Program
-        {
-            static void Main(string[] args)
             {
                 // just saying it's a program for an array
                 Console.WriteLine("This is a console program for arrays. Sit back, and relax."); // just to introduce to the program
@@ -48,5 +37,5 @@ namespace ArraysDeliverable
     }
     // end of program
 }
-    }
-}
+    
+
